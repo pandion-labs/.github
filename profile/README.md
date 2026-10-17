@@ -1,3 +1,3 @@
 # Pandion Labs
 
-Developer tools for coding agents.
+Developer tools for agents.
